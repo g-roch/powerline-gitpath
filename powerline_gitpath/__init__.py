@@ -1,1 +1,1 @@
-from .segments import gitpath
+from .segments import gitpath, gitname
